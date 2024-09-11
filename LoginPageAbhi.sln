@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginPageAbhi", "LoginPageAbhi\LoginPageAbhi.csproj", "{750C368D-D04C-46DA-936D-9B2A4E42A02D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{750C368D-D04C-46DA-936D-9B2A4E42A02D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{750C368D-D04C-46DA-936D-9B2A4E42A02D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{750C368D-D04C-46DA-936D-9B2A4E42A02D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{750C368D-D04C-46DA-936D-9B2A4E42A02D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86530F45-B3D1-4FC3-ACF1-F2DB51A209D5}
+	EndGlobalSection
+EndGlobal
